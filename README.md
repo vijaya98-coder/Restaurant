@@ -35,3 +35,5 @@ Home interface
 
 <img width="1859" height="752" alt="image" src="https://github.com/user-attachments/assets/632ec578-9b19-4520-b0a8-d9f0b2fcab18" />
 
+https://drive.google.com/file/d/11hGPLLFsAhfgqACp_z4kLckd15t7zxPq/view?usp=drive_link
+
